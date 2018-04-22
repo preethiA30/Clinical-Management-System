@@ -3,6 +3,10 @@ It's a web application for managing hospital rooms and determining the patient's
 
 It allows nurses to keep track of the patients and their diseases in real time and to have an overview over the patients and rooms, and better manage the rooms assignment across patients.
 
+# Team Members:
+1. Preethi Anbunathan
+2. Prajacta Nagraj
+
 
 # Youtube video
 https://youtu.be/vRXXCXvEujg
